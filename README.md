@@ -3,8 +3,8 @@ Templates para projetos com typescript, react, tailwind, eslint e prettier pré 
 
 # Getting Started
 ```bash
-npx degit bezlant/react-ts-vite-eslint-prettier-tailwind my-awesome-app
+npx degit oliveeiralucas/templateProject my-awesome-app
 cd my-awesome-app
-yarn install
-yarn dev
+yarn install || npm install
+yarn dev || npm run dev
 ```
